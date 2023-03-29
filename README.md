@@ -11,7 +11,7 @@ Tools: Power BI, Python <br>
 Python Library: Panda<br>
 📂[Date transformation.py](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/mergedataset.py)<br>
 📂[PBIX file](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb.pbix)<br>
-💹**Dashboard :** ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample1.png)
+💹**Dashboard preview :** ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample1.png)
 
 ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample%202.png)
 
@@ -19,5 +19,5 @@ Python Library: Panda<br>
 
 **Description :** This project aims to identify the best and worst suppliers in terms of quality and determine the most effective plants at finding and rejecting defects to minimize downtime and improve product quality. The analysis will provide actionable insights to optimize operations and improve supplier performance.<br>
 Database: [Supplier analysis sample](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/Supplier%20Quality%20Analysis%20Sample.xlsx) <br>
-💹**Dashboard :** ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/supplier%20quality%20analysis.png)
+💹**Dashboard preview:** ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/supplier%20quality%20analysis.png)
 
