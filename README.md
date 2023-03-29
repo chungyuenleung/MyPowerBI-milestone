@@ -9,8 +9,8 @@
 Database: [Airbnb data](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/archive%20(1).zip) <br>
 Tools: Power BI, Python <br>
 Python Library: Panda<br>
-📂[Date transformation.py:](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/mergedataset.py)<br>
-📂[PBIX file:](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb.pbix)<br>
+📂[Date transformation.py](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/mergedataset.py)<br>
+📂[PBIX file](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb.pbix)<br>
 💹**Dashboard :** ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample1.png)
 
 ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample%202.png)
