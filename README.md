@@ -8,10 +8,9 @@
 **Improvement:** Further improvement can be made by finding a larger dataset to confirm whether superhosts have a lower average price or whether is because this dataset has many outliers. Occupancy rates per month and throughout the year can also be added as to conduct factor analysis regarding the popularity of Airbnb listings. Additionally, seasonal events may affect prices, and these periods need to be excluded from the analysis for certain cities. The constraints of the project include limited data and the need for more comprehensive datasets to improve the accuracy of the analysis.<br>
 Database: [Airbnb data](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/archive%20(1).zip) <br>
 Tools: Power BI, Python <br>
-Python Library: Panda<br><br>
+Python Library: Panda<br>
 📂[Date transformation file:](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/mergedataset.py)<br>
 📂[PBIX file:](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb.pbix)<br>
-
 💹**Dashboard :** ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample1.png)
 
 ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample%202.png)
