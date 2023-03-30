@@ -4,7 +4,7 @@
 
 
 **Description:** This project aims to analyze Airbnb data from 10 popular European destinations using **Power BI** and **Python**. utilizing advanced techniques such as **DAX and correlation plots**. The analysis focuses on price allocation across the cities, the relationship between prices and factors such as being a superhost or weekdays/weekends, and factors contributing to qualifying for superhost status. The location of the listing, proximity to metro/city center, and capacity for hosting are also considered.<br>
-**Suggestion and result:**
+**Suggestion and result:**<br>
 1.<br>
 2.<br>
 3.<br>
