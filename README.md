@@ -15,6 +15,8 @@ Python Library: Panda<br>
 
 ![pic](https://github.com/chungyuenleung/MyPowerBI-milestone/blob/main/airbnb%20sample%202.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Supplier quality analysis
 
 **Description :** This project aims to identify the best and worst suppliers in terms of quality and determine the most effective plants at finding and rejecting defects to minimize downtime and improve product quality. The analysis will provide actionable insights to optimize operations and improve supplier performance.<br>
